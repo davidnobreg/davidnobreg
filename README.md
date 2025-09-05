@@ -7,10 +7,6 @@
 
 ###
 
-<p align="left">Profissional de TI com sólida formação em programação e desenvolvimento, aliado a uma vasta experiência em redes, suporte técnico e manutenção de servidores, integrando habilidades técnicas e práticas para entregar soluções completas.
-
-
-
 ![davidnobreg GitHub stats](https://github-readme-stats.vercel.app/api?username=davidnobreg&show_icons=true&theme=tokyonight)
 
 ##
