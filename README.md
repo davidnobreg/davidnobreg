@@ -1,13 +1,19 @@
 ###
 <h1 align="center">Olá! sou o David Nobrega 👋</h1>
 
-###
+## Contatos
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<div>
+&nbsp;
+   <a href="https://davidnobreg.github.io/Landing-Page/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/david-santos-260057279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="mailto:davidsantos@ads.fiponline.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
-###
+&nbsp;
+&nbsp;
+<p align="center">Tenho confiança na minha capacidade de transformar sua visão em realidade e dar vida ao seu projeto!</p>
 
-![davidnobreg GitHub stats](https://github-readme-stats.vercel.app/api?username=davidnobreg&show_icons=true&theme=tokyonight)
 
 ##
 <h3 align="center">Habilidades Profissionais</h3>
@@ -67,16 +73,6 @@
 
 
 ##
+###
 
-## Contatos
-
-<div>
-&nbsp;
-   <a href="https://davidnobreg.github.io/Landing-Page/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/david-santos-260057279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:davidsantos@ads.fiponline.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
-&nbsp;
-&nbsp;
-<p align="center">Tenho confiança na minha capacidade de transformar sua visão em realidade e dar vida ao seu projeto!</p>
+![davidnobreg GitHub stats](https://github-readme-stats.vercel.app/api?username=davidnobreg&show_icons=true&theme=tokyonight)
